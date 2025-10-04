@@ -1,0 +1,13 @@
+.matha{
+    height: 50px;
+    width: 40px;
+    background-color: royalblue;
+    border-radius: 10px;
+    border-top: 2px solid mediumslateblue;
+    border-bottom: 3px solid plum;
+    border-left: 4px solid aqua;
+    border-right: 5px solid hotpink;
+    border-style: dotted;
+    box-shadow: 10px 10px 10px red;
+
+}
